@@ -3,8 +3,8 @@ This is a prompt created by me with the features i need and i like
 
 to apply it to your .zshrc file u need to copy this:
 
-'''autoload -U colors && colors
-autoload -Uz vcs_info
+```autoload -U colors && colors
+ autoload -Uz vcs_info
 
 MAGENTA="%B%F{red}"
 WHITE="%B%F{white}"
@@ -25,6 +25,6 @@ conda_env_info() {
 }
 
 PROMPT='$(virtualenv_info)$(conda_env_info)'$PURPLE' %n '$WHITE'@ '$PURPLE'%m  '$RESET'in '$PURPLE' '$WHITE'%~ '$WHITE'| '$PURPLE'󰥔 %D{%H:%M:%S} '$PURPLE'$vcs_info_msg_0_'$WHITE'
-'$WHITE'$ ' '''
+'$WHITE'$ '```
 
-and you are done!
+# and you are done!
