@@ -12,6 +12,8 @@ you can find icons in nerdfonts.com in the cheat sheet sections and yeah, enjoy!
 
 to apply it to your .zshrc file u need to copy this:
 
+and after that paste it at the end of your .zshrc file.
+
 ```
 autoload -U colors && colors
 autoload -Uz vcs_info
