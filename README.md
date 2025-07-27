@@ -1,8 +1,8 @@
 # Zakky's Zsh Prompt
 
-# This is a prompt created by me with the features i need and i like.
+This is a prompt created by me with the features i need and i like.
 
-# This is how it looks: 
+* This is how it looks: 
 
 <img width="317" height="55" alt="prompt" src="https://github.com/user-attachments/assets/04baf3ae-dd40-4f9f-b4f4-59f95cee8b8b" />
 
