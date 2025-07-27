@@ -6,6 +6,9 @@ This is how it looks:
 
 <img width="317" height="55" alt="prompt" src="https://github.com/user-attachments/assets/04baf3ae-dd40-4f9f-b4f4-59f95cee8b8b" />
 
+you can of course modify it with a custom icon for your distro, your username, hostname, colors, etc. by just editing the stuff after PROMPT= .
+you can find icons in nerdfonts.com in the cheat sheet sections and yeah, enjoy!
+
 to apply it to your .zshrc file u need to copy this:
 
 ```
