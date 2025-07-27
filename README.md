@@ -1,4 +1,4 @@
-# Zakky's-Zsh-Prompt
+# Zakky's Zsh Prompt
 
 This is a prompt created by me with the features i need and i like
 
